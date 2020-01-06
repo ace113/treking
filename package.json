@@ -1,0 +1,20 @@
+{
+  "name": "treking",
+  "version": "1.0.0",
+  "description": "\"A site for homestay and trekking\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/ace113/treking.git"
+  },
+  "author": "\"Prajwal Maharjan\"",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  }
+}
